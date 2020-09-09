@@ -1,6 +1,6 @@
-# (hey if you are here for the surprise send me a dm to instagram... oh this? just a little project...)
+### (hey if you are here for the surprise send me a dm to instagram... oh this? just a little project...)
 
-### Welcome to my Repo 🎮🎶
+# Welcome to my Repo 🎮🎶
 Here I create my wonderful projects
 
 ## VST Plugins 🎹🎛
