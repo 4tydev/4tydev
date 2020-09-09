@@ -3,14 +3,15 @@
 # Welcome to my Repo 🎮🎶
 Here I create my wonderful projects
 
+## DigtalWorld Website 🌍
+My digital world brought to life. Here you will enjoy wonderful music, get updated on useful tips, as well as having the opportunity to be part of my small platform, where I have small puzzles for you to solve... but... be patient...
+
 ## VST Plugins 🎹🎛
 I have started to program VST synths and effects for you to enjoy! Everything will be open source. So be patient for whats next...
 
-## DigtalWorld Website 🌍
-My digital world brought to life. Here you will enjoy wonderful music as well as having the opportunity to be part of my small platform! Where I have small puzzles for you to solve... but... again be patient...
-
 ## EVEN MORE 😃
 As I said, I will be updating this gradually with as much content as possible for you to enjoy!
+
 <!--
 **4tydev/4tydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
