@@ -2,13 +2,13 @@
 # Welcome to my Digital World 🎮🎶
 Here I create my wonderful projects
 
-## DigtalWorld Website 🌍
+## 4tydev Website ## 🌍
 My digital world brought to life. Here you will enjoy wonderful music, get updated on useful tips, as well as having the opportunity to be part of my small platform, where I have small puzzles for you to solve... but... be patient...
 
-## VST Plugins 🎹🎛
+## VST Plugins ## 🎹🎛
 I have started to program VST synths and effects for you to enjoy! Everything will be open source. So be patient for whats next...
 
-## EVEN MORE 😃
+## EVEN MORE ## 😃
 As I said, I will be updating this gradually with as much content as possible for you to enjoy!
 
 <!--
